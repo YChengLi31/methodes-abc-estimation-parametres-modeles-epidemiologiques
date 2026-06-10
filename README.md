@@ -1,4 +1,4 @@
-# methodes-abc-estimation-parametres-modeles-epidemiologiques
+# Méthodes d'Approximate Bayesian Computation (ABC) pour l'estimation de paramètres dans des modèles épidémiologiques.
 
 Ce dépôt contient des implémentations et des exemples d’utilisation des méthodes d’Approximate Bayesian Computation (ABC) appliquées à l’estimation de paramètres dans des modèles épidémiologiques.
 
