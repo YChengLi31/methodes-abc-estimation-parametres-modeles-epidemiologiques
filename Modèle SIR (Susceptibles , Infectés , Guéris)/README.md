@@ -29,11 +29,11 @@ Les méthodes présentées peuvent être utilisées pour :
 # **Prérequis**
 
 Cas 1 :  
-- Language R
+- language R
 - librairie deSolve
 
 Cas 2 : 
-- Language R
+- language R
 - librairie deSolve
 - librairie tmvtnorm
 
