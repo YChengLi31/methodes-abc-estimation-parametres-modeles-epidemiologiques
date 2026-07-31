@@ -32,6 +32,8 @@ Les méthodes proposées permettent notamment :
   - Notebooks : - Simulation de la dynamique des populations
                 - Utilisation de l'ABC-SMC afin d'estimer les paramètres sur les données simulées et réelles
                 - Analyse et visualisation des histogrammes des paramètres acceptés  
+  - Différentes parties : - correspond aux fichiers qui contient les paramètres acceptés d'après l'ABC-SMC en fonction des différentes distances et variables fixées
+
 
 # **Prérequis**
 
